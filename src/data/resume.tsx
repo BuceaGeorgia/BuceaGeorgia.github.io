@@ -132,7 +132,7 @@ export const DATA = {
       start: "January 2025",
       end: undefined,
       description:
-        "Shorts AI is a mobile app for video creators that turns raw clips into creator-specific edited videos. Role: CTO & ML Engineer.",
+        "Shorts AI is a mobile app for video creators that turns raw clips into creator-specific edited videos. Reached 100k users. Role: CTO & ML Engineer.",
     },
     {
       company: "BRINOS",
